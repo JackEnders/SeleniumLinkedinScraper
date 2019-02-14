@@ -1,5 +1,5 @@
 # SeleniumLinkedinScraper
-Find large number of targets associated with an organization for red teams and pentesters performing phishing assessments using Linkedin.
+Find large number of targets associated with an organization using Linkedin for red teams and pentesters performing phishing assessments.
 
 # TODO
 [] Job title is not always accurate, since not everyone uses the default on their top card section, might be better to pull title from the top card if possible
