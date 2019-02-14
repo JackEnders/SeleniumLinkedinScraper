@@ -3,7 +3,9 @@ Find large number of targets associated with an organization for red teams and p
 
 # TODO
 [] Job title is not always accurate, since not everyone uses the default on their top card section, might be better to pull title from the top card if possible
+
 [] Ability to automatically generate emails based on organization's email format
+
 [] Hit HIBP api to see if the email has been in any dumps
 
 # Credits
