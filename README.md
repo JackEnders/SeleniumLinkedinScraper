@@ -10,6 +10,9 @@ Find large number of targets associated with an organization using Linkedin for 
 
 # Credits
 This project is based on https://github.com/dcraven02/SeleniumWebScraper/ but with a few changes:
+
 ✅ Remove previous project's limitation of 10 profiles, will now keep iterating until there are no more google search results
+
 ✅ Make everything a single file
+
 ✅ Change output format to xlsx because we professional
