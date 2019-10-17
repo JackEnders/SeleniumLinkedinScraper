@@ -166,7 +166,7 @@ for linkedin_url in linkedin_urls:
 
     # writing the corresponding values to the header
     # encoding with utf-8 to ensure all characters get loaded
-    worksheet.write(mind_row, 0, name.encode('utf-8')
+    worksheet.write(mind_row, 0, name.encode('utf-8'))
     worksheet.write(mind_row, 1, job_title.encode('utf-8'))
     worksheet.write(mind_row, 2, company.encode('utf-8'))
     worksheet.write(mind_row, 3, college.encode('utf-8'))
